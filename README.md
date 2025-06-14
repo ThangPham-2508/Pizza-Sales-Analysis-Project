@@ -1,4 +1,4 @@
-Pizza Sales Analysis | SQL, Power BI | 
+# Pizza Sales Analysis | SQL, Power BI | 
 
 •	Analyzed an over 48,000-row dataset from Kaggle for a pizza shop to uncover key trends, improve visibility into performance, and support data-driven decisions.
 
