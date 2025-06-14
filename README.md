@@ -1,4 +1,7 @@
-# Pizza-Sales-Analysis-Project
-●	Used R and RStudio to process and clean large-scale bike-share trip data, including handling missing values, converting date-time columns, calculating trip durations, and categorizing data by user type (member/casual) and time-based features such as day of week and month.
-●	Conducted thorough exploratory data analysis to uncover insights into user behavior, including peak ride times, trip duration trends, and station popularity, using visualizations such as histograms and line charts.
-●	Analyzed user data to identify opportunities for increasing annual memberships, optimizing station placement, and tailoring marketing strategies. 
+Pizza Sales Analysis | SQL, Power BI | 
+
+•	Analyzed an over 48,000-row dataset from Kaggle for a pizza shop to uncover key trends, improve visibility into performance, and support data-driven decisions.
+
+•	Calculated KPIs (Total Revenue, AOV, Pizzas Sold) using SQL; transformed data and built DAX-driven Power BI dashboards showing order trends, sales breakdowns, and top/bottom performers.
+
+•	Delivered a comprehensive dashboard that revealed key customer insights and sales patterns, supporting strategic decisions aimed at boosting revenue and optimizing product offerings.
